@@ -1,0 +1,108 @@
+.hvr
+{
+    text-decoration:none;
+    color:black;
+}
+.hvr:hover
+{
+    font-weight:strong;
+    font-size:18px;
+    color:black;
+}
+.div-team
+{
+    padding:10px; border:5px solid white;color:white;background-color:#080A46;
+}
+#myteam
+{
+    background:white;
+    color:#080A46;
+    border-radius:20px;
+    padding:10px;
+    display:none;
+}
+.txt-stl
+{
+    background-color:#080A46;;
+    color:white;
+    border:5px solid white;
+    padding:5px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.lst
+{
+    list-style:none;
+    padding:0px;
+    margin:opx;
+}
+.ig
+{
+    width: 50px;
+    height:50px;
+    padding:10px;
+}
+
+.ig1:hover{
+    width: 55px;
+    height:55px; 
+}
+.ig2:hover{
+    width: 55px;
+    height:55px; 
+}
+.ig3:hover{
+    width: 55px;
+    height:55px; 
+}
+.ig4:hover{
+    width: 55px;
+    height:55px; 
+}
+.ig5:hover{
+    width: 55px;
+    height:55px; 
+}
+.ig6:hover{
+    width: 55px;
+    height:55px; 
+}
+#footer
+{
+    background-color:#080A46;
+    color:white;
+    padding:10px;
+}
+#ml{
+    font-size:20px;
+}
+#bread a
+{
+    color:white;
+    font-size:20px;
+    text-decoration:none;
+    padding:10px;
+}
+.footer-align
+{
+    padding:20px;
+}
+.bttn
+{
+  padding:20px;
+  margin-top:10px;
+}
+.bttn-a
+{
+    font-size:20px;
+    padding:20px;
+    color:white;
+    background-color:#080A46;
+    text-decoration:none;
+    border-radius:50px;
+    
+}
+.carousel
+{
+    padding-top:5px;
+}
